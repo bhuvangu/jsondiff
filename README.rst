@@ -1,3 +1,6 @@
+Added capability of query param:
+/index.html?left=[1,2]&right=[2,3]
+
 jsondiff
 ========
 
